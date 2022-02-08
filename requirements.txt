@@ -1,0 +1,7 @@
+PySide2
+qdarkstyle
+python-docx
+python-pptx
+openpyxl
+requests
+pywin32

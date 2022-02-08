@@ -1,0 +1,1 @@
+pyside2-uic lib\ui.ui -o lib\MainUI.py
